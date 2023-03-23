@@ -1,0 +1,13 @@
+{
+  "name": "mikrotik-users",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Toni Moreira <moreiraatoni@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "remove-accents": "^0.4.4"
+  }
+}
